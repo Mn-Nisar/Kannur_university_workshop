@@ -18,4 +18,3 @@ kinase = [
 with open("sequence.csv") as f:
     sequences = f.readlines()
 
-
